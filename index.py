@@ -5,8 +5,6 @@ Created on Sat Mar 28 10:24:42 2020
 
 @author: himanshu teotia
 """
-
-from spacy import displacy
 import spacy
 import re
 import datetime
