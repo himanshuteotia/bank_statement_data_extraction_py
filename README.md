@@ -2,5 +2,6 @@
 
 Docker commands to see the result:
 
-```docker build -t bank_statement .```
-```docker run -it bank_statement```
+1. ```docker build -t bank_statement .```
+
+2. ```docker run -it bank_statement```
