@@ -1,4 +1,4 @@
-# bank_statement_data_extraction_py
+
 
 Docker commands to see the result:
 
